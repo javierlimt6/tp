@@ -84,7 +84,6 @@ public class HelpWindow extends UiPart<Stage> {
         Label contentLabel = new Label(commandUsage);
         contentLabel.setWrapText(true);
         contentLabel.setMaxWidth(Double.MAX_VALUE);
-        contentLabel.setPrefWidth(400);
         contentLabel.setMinHeight(Label.USE_PREF_SIZE);
         contentLabel.setStyle("-fx-padding: 10; -fx-text-alignment: left;");
 

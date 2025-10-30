@@ -9,5 +9,5 @@
             editable="false"
             wrapText="true"
             styleClass="result-display"
-            text="Hey, there 🌸&#10;Ready to plan?"/>
+            text="Hey, there 🌸&#10;Ready to plan?&#10;Enter help for available commands!"/>
 </StackPane>
